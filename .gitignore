@@ -1,0 +1,5 @@
+#Exclude the API keys file in WeatherPy Folder
+WeatherPy/api_keys.py
+# Ignore macOS system files
+.DS_Store
+
